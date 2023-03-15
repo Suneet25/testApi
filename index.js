@@ -1,10 +1,10 @@
-let jsonserver = require("json-server");
+let jsonServer = require("json-server");
 
-let server = jsonserver.create();
-let router = jsonserver.router("db.json");
+let server = jsonServer.create();
+let router = jsonServer.router("db.json");
 
-let middlewares = jsonserver.defaults();
-let port = process.env.port || 3001;
+let middlewares = jsonServer.defaults();
+let port = process.env.PORT || 3001;
 
 server.use(middlewares);
 
