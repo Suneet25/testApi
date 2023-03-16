@@ -24,8 +24,134 @@
     },
     {
       "id": 3,
-      "brand": "Tata",
+      "brand": "Ford",
       "type": "AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
+    },
+    {
+      "id": 4,
+      "brand": "Tata",
+      "type":"Manual",
+      "year": 2019,
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 200000
+    },
+    {
+      "id": 5,
+      "brand": "Ford",
+      "type":"AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 100000
+    },
+    {
+      "id": 6,
+      "brand": "Tata",
+      "type":"Manual",
+      "year": 2019,
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 50000
+    },
+    {
+      "id": 7,
+      "brand": "Ford",
+      "type":"AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 1000000
+    },
+    {
+      "id": 8,
+      "brand": "Hyundai",
+      "type":"Manual",
+      "year": 2019,
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 600000
+    },
+    {
+      "id": 9,
+      "brand": "Tata",
+      "type":"AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 80000
+    },
+    {
+      "id": 10,
+      "brand": "Hyundai",
+      "type":"Manual",
+      "year": 2019,
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 400000
+    },
+    {
+      "id": 11,
+      "brand": "Tata",
+      "type":"AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
+    },
+    {
+      "id": 12,
+      "brand": "Tata",
+      "type":"Manual",
+      "year": 2019,
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "id": 13,
+      "brand": "Hyundai",
+      "type":"AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
+    },
+    {
+      "id": 14,
+      "brand": "Tata",
+      "type":"Manual",
+      "year": 2019,
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "id": 15,
+      "brand": "Tata",
+      "type":"AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
+    },
+    {
+      "id": 16,
+      "brand": "Tata",
+      "type":"Manual",
+      "year": 2019,
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "id": 17,
+      "brand": "Hyundai",
+      "type":"AMT",
       "year": 2017,
       "kms": 8000,
       "Description": "Tata Nexon with all original documents",
@@ -34,3 +160,4 @@
   ],
   "mocks": []
 }
+
