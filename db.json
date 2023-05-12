@@ -1,15 +1,26 @@
 {
   "users": [],
-  "hotels": [
-    {
-      "category": "Family",
-      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Double",
-      "no_of_persons": "2",
-      "capacity": "3",
-      "cost": "4000",
-      "booked": false
-    }
-  ]
+"companies":[
+    [
+        {
+            "id" : 1,
+        "company_logo": "https://logolook.net/wp-content/uploads/2021/11/HDFC-Bank-Logo.png",
+        "company_name": "HDFC Bank",
+        "company_type": "Bank",
+            "stock_exchange": "NSE",
+            "total_shares": 50000,
+            "cost_per_share": 4210,
+            "price_action": 12
+      },
+      {
+            "id" : 2,
+        "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
+        "company_name": "Reliance Industries",
+        "company_type": "Oil",
+            "stock_exchange": "BSE",
+            "total_shares": 20000,
+            "cost_per_share": 2132,
+            "price_action": 4
+      }
+    ]
 }
